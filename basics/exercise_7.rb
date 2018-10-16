@@ -1,0 +1,1 @@
+Somewhere within the code, there is a paranthesis instead of a bracket. There could have been a mistake at the beginning or end of an array/hash.
