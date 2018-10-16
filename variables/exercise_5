@@ -1,0 +1,1 @@
+In the first case, x should print 3 to the page.  X was initialized as 0 outside of the block so there should be no error there.  In the second example, there will be an error. The "x" variable was created within the block, which is the inner scope. Variables can not be created within the inner scope.
