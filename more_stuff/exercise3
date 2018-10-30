@@ -1,0 +1,2 @@
+Exception handling anticipates a possible problem and provides a solution
+that allows a program to continue executing even if it encounters an error.
